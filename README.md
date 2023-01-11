@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amerrika
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning html, css and javascript
+- 🌱 I’m a beginner and currently learning vanilla html, css and javascript
 -  My current knowledge of javascript is very basic:
     - defining variables (scope, hoisting)
     - defining functions
