@@ -1,15 +1,6 @@
 - 👋 Hi, I’m @amerrika
 - 👀 I’m interested in frontend web development
 - 🌱 I’m a beginner and currently learning vanilla html, css and javascript
--  My current knowledge of javascript is very basic:
-    - defining variables (scope, hoisting)
-    - defining functions
-    - using for loop and while loop
-    - using event listeners
-    - understanding callback functions
-    - working with input fields, numbers, strings
-    - doing simple math calculations
-    - basic DOM (add & remove classes, adding new html elements)
 
 
 <!---
